@@ -62,6 +62,54 @@
 |  Figure 9. Internet Archive results for term "Covid-19".<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-covid19.ipynb</sub><br>  |
 <br>
 
+### Google Custom Search (news.google.com) Data:
+
+|  <img src="Resources/google-wuhan.png" width='750'><br>  |
+|:------|
+|   Figure 10.  Google Custom Search results for term "Wuhan".<br> <sub>https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse.ipynb</sub><br>  |
+<br>
+
+|  <img src="Resources/google-wuhan-chinese.png" width='750'><br>  |
+|:------|
+|  Figure 11.  Google Custom Search results for term "武漢" (Wuhan).<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-wuhanchinese.ipynb</sub><br>  |
+<br>
+
+|  <img src="Resources/google-mystery.png" width='750'><br>  |
+|:------|
+|  Figure 12. Google Custom Search results for term "Mystery\|Mysterious Illness".<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-mystery.ipynb</sub><br>  |
+<br>
+
+|  <img src="Resources/google-mysterychina.png" width='750'><br>  |
+|:------|
+|  Figure 13. Google Custom Search results for term "Mystery\|Mysterious Illness, China".<br><sub>  https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-mysterychina.ipynb</sub><br>  |
+</br>
+
+|  <img src="Resources/google-pneumonia.png" width='750'><br>  |
+|:------|
+|  Figure. 14. Google Custom Search results for term "Pneumonia".<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-pneumonia.ipynb<br></sub>  |
+<br>
+
+|  <img src="Resources/google-pneumoniachina.png" width='750'><br>  |
+|:------|
+|  Figure 15. Google Custom Search results for term "Pneumonia+China".<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-pneumoniachina.ipynb<br></sub>  |
+<br>
+
+|  <img src="Resources/google-pneumonia-chinese.png" width='750'><br>  |
+|:------|
+|  Figure 16. Internet Archive results for term "肺炎 \| 腹瀉 \| 咳嗽" (Pneumonia, Diarrhea, Cough).<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-pneumonia-chinese.ipynb</sub><br>  |
+<br>
+
+|  <img src="Resources/google-pneumoniaetc.png" width='750'><br>  |
+|:------|
+|  Figure 17. Google Custom Search results for term "Pneumonia \| Diarrhea \| Cough"<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-pneumoniaetc.ipynb</sub><br>  |
+<br>
+
+|  <img src="Resources/google-covid19.png" width='750'><br>  |
+|:------|
+|  Figure 18. Google Custom Search results for term "Covid-19".<br><sub> https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-covid19.ipynb</sub><br>  |
+<br>
+
+
 ## Results
 * "Pneumonia China" 2019 Anomaly  
 * "Wuhan" 2019 Anomalous Inlier
