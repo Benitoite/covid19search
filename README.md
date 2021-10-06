@@ -25,9 +25,9 @@
 
 |   Contents:   |
 | -----  |
-|  [Internet Archive data](#internet-archive-archive-org-data)  |
+|  [Internet Archive data](#internet-archive-archiveorg-data)  |
 |     |
-|  [Google News data](#google-custom-search-news-google-com-data)  |
+|  [Google News data](#google-custom-search-newsgooglecom-data)  |
 
 
 ## Analysis
