@@ -30,16 +30,14 @@
 |   Contents:   |
 | -----  |
 |  [Internet Archive data](#internet-archive-archiveorg-data)  |
-|     |
 |  [Google News data](#google-custom-search-newsgooglecom-data)  |
-
 
 ## Analysis
 ### Internet Archive (archive.org) Data:
 
 |  <img src="Resources/search-wuhan.png" width='750'><br>  |
 |:------|
-|   Figure 1.  Internet Archive results for term "Wuhan".<br> <sub>https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1.ipynb</sub><br>  |
+|   Figure 1.  Internet Archive results for term "Wuhan".<br> <sub>[Benitoite/covid19search/blob/main/wuhansearch1.ipynb](https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1.ipynb)</sub><br>  |
 
 <br>
 
