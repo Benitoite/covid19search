@@ -57,7 +57,7 @@
 |:------|
 |  Figure 4. Internet Archive results for term "Mystery\|Mysterious Illness, China".<br><sub> [Benitoite/covid19search/blob/main/wuhansearch1-covid19-mysteriousillnesschina.ipynb](https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-covid19-mysteriousillnesschina.ipynb)</sub><br>  |
 
-</br>
+<br>
 
 |  <img src="Resources/search-pneumonia.png" width='750'><br>  |
 |:------|
@@ -100,6 +100,7 @@
 |  <img src="Resources/google-wuhan-chinese.png" width='750'><br>  |
 |:------|
 |  Figure 11.  Google Custom Search results for term "武漢" (Wuhan).<br><sub> [Benitoite/covid19search/blob/main/wuhansearch1-gcse-wuhanchinese.ipynb](https://nbviewer.jupyter.org/github/Benitoite/covid19search/blob/main/wuhansearch1-gcse-wuhanchinese.ipynb)</sub><br>  |
+
 <br>
 
 |  <img src="Resources/google-mystery.png" width='750'><br>  |
