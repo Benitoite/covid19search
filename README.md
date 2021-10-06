@@ -22,6 +22,7 @@
 #### Procurement Evidence: https://www.bloomberg.com/news/articles/2021-10-04/china-pcr-purchases-spiked-in-months-before-first-known-covid-cases-firm-says
 * https://internet2-0.com/whitepaper/procuring-for-a-pandemic/
 
+<hr>
 
 |   Contents:   |
 | -----  |
