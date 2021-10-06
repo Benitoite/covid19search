@@ -16,14 +16,17 @@
 
 ## Background
 
-#### *No Evidence:*   https://www.voanews.com/a/covid-19-pandemic_who-finds-no-evidence-covid-19-outbreaks-wuhan-december-2019/6201813.html  
-* https://www.who.int/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open
+#### *No Evidence:*   
+* ##### [https://www.voanews.com/a/covid-19-pandemic_who-finds-no-evidence-covid-19-outbreaks-wuhan-december-2019/6201813.html](https://www.voanews.com/a/covid-19-pandemic_who-finds-no-evidence-covid-19-outbreaks-wuhan-december-2019/6201813.html)
+  * [https://www.who.int/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open](https://www.who.int/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open)
 
-#### *Satellite Evidence:* https://www.cnbc.com/2020/06/09/coronavirus-may-have-been-spreading-in-china-in-august-harvard-study.html
-* https://dash.harvard.edu/handle/1/42669767
+#### *Satellite Evidence:* 
+* ##### [https://www.cnbc.com/2020/06/09/coronavirus-may-have-been-spreading-in-china-in-august-harvard-study.html](https://www.cnbc.com/2020/06/09/coronavirus-may-have-been-spreading-in-china-in-august-harvard-study.html)
+  * [https://dash.harvard.edu/handle/1/42669767](https://dash.harvard.edu/handle/1/42669767)
 
-#### *Procurement Evidence:* https://www.bloomberg.com/news/articles/2021-10-04/china-pcr-purchases-spiked-in-months-before-first-known-covid-cases-firm-says
-* https://internet2-0.com/whitepaper/procuring-for-a-pandemic/
+#### *Procurement Evidence:* 
+* ##### [https://www.bloomberg.com/news/articles/2021-10-04/china-pcr-purchases-spiked-in-months-before-first-known-covid-cases-firm-says](https://www.bloomberg.com/news/articles/2021-10-04/china-pcr-purchases-spiked-in-months-before-first-known-covid-cases-firm-says)
+  * [https://internet2-0.com/whitepaper/procuring-for-a-pandemic/](https://internet2-0.com/whitepaper/procuring-for-a-pandemic/)
 
 <hr>
 
