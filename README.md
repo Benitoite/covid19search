@@ -3,7 +3,7 @@
 <img src="Resources/scatter.gif" width='650'><br>
 
 ### Richard Eldon Barber | [`kd6kxr@gmail.com`](mailto:kd6kxr@gmail.com)
-#### 2 October 2021 | `/DTG//021930USEP21  //RB21A02001/`
+#### 2 October 2021 | `/DTG//021930USEP21  //RB21A06001/`
 
 #### Licensing:
 
