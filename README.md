@@ -16,7 +16,7 @@
 
 ## Background
 
-#### *No Evidence:* https://www.voanews.com/a/covid-19-pandemic_who-finds-no-evidence-covid-19-outbreaks-wuhan-december-2019/6201813.html
+#### *No Evidence:*   https://www.voanews.com/a/covid-19-pandemic_who-finds-no-evidence-covid-19-outbreaks-wuhan-december-2019/6201813.html  
 * https://www.who.int/news/item/30-03-2021-who-calls-for-further-studies-data-on-origin-of-sars-cov-2-virus-reiterates-that-all-hypotheses-remain-open
 
 #### *Satellite Evidence:* https://www.cnbc.com/2020/06/09/coronavirus-may-have-been-spreading-in-china-in-august-harvard-study.html
